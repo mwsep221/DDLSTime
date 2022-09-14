@@ -1,0 +1,22 @@
+{
+  "name": "ddlstime",
+  "version": "1.0.0",
+  "description": "Gets the time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwsep221/DDLSTime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwsep221/DDLSTime/issues"
+  },
+  "homepage": "https://github.com/mwsep221/DDLSTime#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
