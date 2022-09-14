@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mwsep221/DDLSTime#readme",
   "dependencies": {
-    "moment": "^2.29.2"
+    "moment": "^2.29.4"
   }
 }
